@@ -1,4 +1,4 @@
-To install: pip install git+https://github.com/Tixierae/geograpy.git
+To install: `pip install git+https://github.com/Tixierae/geograpy.git`
 
 This fork fixes issues with newer versions of nltk.
 
